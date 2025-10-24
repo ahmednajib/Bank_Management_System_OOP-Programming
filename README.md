@@ -7,6 +7,7 @@ Date         : 24/10/2025
 Version      : 1.0
 
 ============================================================
+
 **ABOUT THE PROJECT:**
 
 This project is a Banking Management System developed in C++
@@ -19,6 +20,7 @@ functionalities of a banking system such as adding clients,
 performing transactions, and managing multiple users securely.
 
 ============================================================
+
 **MAIN FEATURES:**
 
 1. Manage Clients:
@@ -41,7 +43,8 @@ performing transactions, and managing multiple users securely.
    - Date and session tracking for each user.
 
 ============================================================
-TECHNOLOGIES USED
+
+**TECHNOLOGIES USED**
 
 - Language   : C++
 - Concepts   : Classes, File Handling, Functions, Enums, Structs
