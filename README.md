@@ -1,6 +1,5 @@
-============================================================
-                  BANKING MANAGEMENT SYSTEM
-============================================================
+**BANKING MANAGEMENT SYSTEM:**
+
 
 Project Type : Console-based Application
 Language     : C++
@@ -8,9 +7,8 @@ Developer    : [Your Name]
 Date         : 24/10/2025
 Version      : 1.0
 
-============================================================
-                        ABOUT THE PROJECT
-============================================================
+
+**ABOUT THE PROJECT:**
 
 This project is a Banking Management System developed in C++
 using Object-Oriented Programming (OOP) principles. It provides
@@ -21,9 +19,7 @@ The main purpose of this project is to simulate the core
 functionalities of a banking system such as adding clients,
 performing transactions, and managing multiple users securely.
 
-============================================================
-                          MAIN FEATURES
-============================================================
+**MAIN FEATURES:**
 
 1. Manage Clients:
    - Add, update, delete, and search for clients.
