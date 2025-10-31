@@ -8,9 +8,7 @@ A console-based banking application built in **C++** using **Object-Oriented Pro
 
 - **Project Type:** Console Application  
 - **Language:** C++  
-- **Developer:** [Your Name]  
-- **Date:** 24/10/2025  
-- **Version:** 1.0  
+- **Developer:** Ahmed Najib AL-Zomor
 
 ---
 
